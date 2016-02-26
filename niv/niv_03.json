@@ -1,14 +1,5 @@
 [
   {
-    "day":"Day",
-    "month":"Month",
-    "year":"Year",
-    "language":"Language",
-    "version":"Version",
-    "book":"book",
-    "verse":"verse"
-  },
-  {
     "day":"1",
     "month":"3",
     "year":"2016",
