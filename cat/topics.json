@@ -1,0 +1,37 @@
+[
+  {
+    "catid": "1",
+    "name": "Love",
+    "status": "1"
+  },
+  {
+    "catid": "2",
+    "name": "Hope",
+    "status": "1"
+  },
+  {
+    "catid": "3",
+    "name": "Friendship",
+    "status": "1"
+  },
+  {
+    "catid": "4",
+    "name": "Inspirational",
+    "status": "1"
+  },
+  {
+    "catid": "5",
+    "name": "Forgiveness",
+    "status": "1"
+  },
+  {
+    "catid": "6",
+    "name": "Family",
+    "status": "1"
+  },
+  {
+    "catid": "7",
+    "name": "Faith",
+    "status": "1"
+  }
+]
