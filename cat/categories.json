@@ -2,6 +2,13 @@
   {
     "cat":"1",
     "language":"EN",
+    "book":"_Proverbs 18:10",
+    "verse":"The name of the Lord is a strong tower: the righteous runneth into it, and is safe.",
+    "version":"KJV"
+  },
+  {
+    "cat":"1",
+    "language":"EN",
     "book":"Proverbs 18:10",
     "verse":"The name of the LORD is a fortified tower; the righteous run to it and are safe.",
     "version":"NIV"
