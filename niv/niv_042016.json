@@ -1,38 +1,65 @@
 [
   {
-    "day":"1",
-    "month":"4",
-    "year":"2016",
-    "language":"EN",
-    "version":"NIV",
-    "book":"Psalm 73:25-26",
-    "verse":"25 Whom have I in heaven but you? And earth has nothing I desire besides you.\n26 My flesh and my heart may fail, but God is the strength of my heart and my portion forever."
+    "day": "1",
+    "month": "4",
+    "year": "2016",
+    "language": "EN",
+    "version": "NIV",
+    "book": "Psalm 73:25-26",
+    "verse": "<sub><small>25</small></sub> Whom have I in heaven but you? And earth has nothing I desire besides you.\n<sub><small>26</small></sub> My flesh and my heart may fail, but God is the strength of my heart and my portion forever."
   },
   {
-    "day":"2",
-    "month":"4",
-    "year":"2016",
-    "language":"EN",
-    "version":"NIV",
-    "book":"Job 23:10-11",
-    "verse":"10 But he knows the way that I take; when he has tested me, I will come forth as gold.\n11 My feet have closely followed his steps; I have kept to his way without turning aside."
+    "day": "2",
+    "month": "4",
+    "year": "2016",
+    "language": "EN",
+    "version": "NIV",
+    "book": "Job 23:10-11",
+    "verse": "<sub><small>10</small></sub> But he knows the way that I take; when he has tested me, I will come forth as gold.\n<sub><small>11</small></sub> My feet have closely followed his steps; I have kept to his way without turning aside."
   },
   {
-    "day":"3",
-    "month":"4",
-    "year":"2016",
-    "language":"EN",
-    "version":"NIV",
-    "book":"Isaiah 55:8-9",
-    "verse":"8 For my thoughts are not your thoughts, neither are your ways my ways, declares the Lord. 9 As the heavens are higher than the earth, so are my ways higher than your ways and my thoughts than your thoughts."
+    "day": "3",
+    "month": "4",
+    "year": "2016",
+    "language": "EN",
+    "version": "NIV",
+    "book": "Isaiah 55:8-9",
+    "verse": "<sub><small>8</small></sub> For my thoughts are not your thoughts, neither are your ways my ways, declares the Lord. <sub><small>9</small></sub> As the heavens are higher than the earth, so are my ways higher than your ways and my thoughts than your thoughts."
   },
   {
-    "day":"4",
-    "month":"4",
-    "year":"2016",
-    "language":"EN",
-    "version":"NIV",
-    "book":"Joshua 1:9",
-    "verse":"9nHave I not commanded you? Be strong and courageous. Do not be afraid; do not be discouraged, for the Lord your God will be with you wherever you go."
+    "day": "4",
+    "month": "4",
+    "year": "2016",
+    "language": "EN",
+    "version": "NIV",
+    "book": "Joshua 1:9",
+    "verse": "<sub><small>9</small></sub> Have I not commanded you? Be strong and courageous. Do not be afraid; do not be discouraged, for the Lord your God will be with you wherever you go."
+  },
+  {
+    "day": "5",
+    "month": "4",
+    "year": "2016",
+    "language": "EN",
+    "version": "NIV",
+    "book": "2 Corinthians 5:14-15",
+    "verse": "<sub><small>14</small></sub> For Christ’s love compels us, because we are convinced that one died for all, and therefore all died. <sub><small>15</small></sub> And he died for all, that those who live should no longer live for themselves but for him who died for them and was raised again."
+  },
+  {
+    "day": "6",
+    "month": "4",
+    "year": "2016",
+    "language": "EN",
+    "version": "NIV",
+    "book": "1 John 3:16",
+    "verse": "<sub><small>16</small></sub> This is how we know what love is: Jesus Christ laid down his life for us. And we ought to lay down our lives for our brothers and sisters."
+  },
+  {
+    "day": "7",
+    "month": "4",
+    "year": "2016",
+    "language": "EN",
+    "version": "NIV",
+    "book": "Galatians 2:20",
+    "verse": "<sub><small>20</small></sub> I have been crucified with Christ and I no longer live, but Christ lives in me. The life I now live in the body, I live by faith in the Son of God, who loved me and gave himself for me."
   }
 ]
