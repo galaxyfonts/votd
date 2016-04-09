@@ -6,7 +6,7 @@
     "language":"EN",
     "version":"KJV",
     "book":"Psalm 73:25-26",
-    "verse":"25 Whom have I in heaven but thee? and there is none upon earth that I desire beside thee.\n26 My flesh and my heart faileth: but God is the strength of my heart, and my portion for ever."
+    "verse":"<small><sup>25</sup></small> Whom have I in heaven but thee? and there is none upon earth that I desire beside thee.\n<small><sup>26</sup></small> My flesh and my heart faileth: but God is the strength of my heart, and my portion for ever."
   },
   {
     "day":"2",
@@ -15,7 +15,7 @@
     "language":"EN",
     "version":"KJV",
     "book":"Job 23:10-11",
-    "verse":"10 But he knoweth the way that I take: when he hath tried me, I shall come forth as gold.\n11 My foot hath held his steps, his way have I kept, and not declined."
+    "verse":"<small><sup>10</sup></small> But he knoweth the way that I take: when he hath tried me, I shall come forth as gold.\n<small><sup>11</sup></small> My foot hath held his steps, his way have I kept, and not declined."
   },
   {
     "day":"3",
@@ -24,7 +24,7 @@
     "language":"EN",
     "version":"KJV",
     "book":"Isaiah 55:8-9",
-    "verse":"8 For my thoughts are not your thoughts, neither are your ways my ways, saith the Lord.\n9 For as the heavens are higher than the earth, so are my ways higher than your ways, and my thoughts than your thoughts."
+    "verse":"<small><sup>8</sup></small> For my thoughts are not your thoughts, neither are your ways my ways, saith the Lord.\n<small><sup>9</sup></small> For as the heavens are higher than the earth, so are my ways higher than your ways, and my thoughts than your thoughts."
   },
   {
     "day":"4",
@@ -52,5 +52,245 @@
     "version":"KJV",
     "book":"1 John 3:16",
     "verse":"<small><sup>16</sup></small> Hereby perceive we the love of God, because he laid down his life for us: and we ought to lay down our lives for the brethren."
+  }
+  ,
+  {
+    "day":"7",
+    "month":"4",
+    "year":"2016",
+    "language":"EN",
+    "version":"KJV",
+    "book":"Galatians 2:20",
+    "verse":"<small><sup>20</sup></small> I am crucified with Christ: nevertheless I live; yet not I, but Christ liveth in me: and the life which I now live in the flesh I live by the faith of the Son of God, who loved me, and gave himself for me."
+  }
+  ,
+  {
+    "day":"8",
+    "month":"4",
+    "year":"2016",
+    "language":"EN",
+    "version":"KJV",
+    "book":"Romans 5:10",
+    "verse":"<small><sup>10</sup></small> For if, when we were enemies, we were reconciled to God by the death of his Son, much more, being reconciled, we shall be saved by his life."
+  }
+  ,
+  {
+    "day":"9",
+    "month":"4",
+    "year":"2016",
+    "language":"EN",
+    "version":"KJV",
+    "book":"Hebrews 1:3",
+    "verse":"<small><sup>3</sup></small> Who being the brightness of his glory, and the express image of his person, and upholding all things by the word of his power, when he had by himself purged our sins, sat down on the right hand of the Majesty on high:"
+  }
+  ,
+  {
+    "day":"10",
+    "month":"4",
+    "year":"2016",
+    "language":"EN",
+    "version":"KJV",
+    "book":"Romans 5:6-8",
+    "verse":"<small><sup>6</sup></small> For when we were yet without strength, in due time Christ died for the ungodly.\n<small><sup>7</sup></small> For scarcely for a righteous man will one die: yet peradventure for a good man some would even dare to die. \n<small><sup>8</sup></small>  But God commendeth his love toward us, in that, while we were yet sinners, Christ died for us"
+  }
+  ,
+  {
+    "day":"11",
+    "month":"4",
+    "year":"2016",
+    "language":"EN",
+    "version":"KJV",
+    "book":"1 Peter 2:24",
+    "verse":"<small><sup>24</sup></small> Who his own self bare our sins in his own body on the tree, that we, being dead to sins, should live unto righteousness: by whose stripes ye were healed."
+  }
+  ,
+  {
+    "day":"12",
+    "month":"4",
+    "year":"2016",
+    "language":"EN",
+    "version":"KJV",
+    "book":"Luke 9:23-24",
+    "verse":"<small><sup>23</sup></small> And he said to them all, If any man will come after me, let him deny himself, and take up his cross daily, and follow me.\n<small><sup>24</sup></small> For whosoever will save his life shall lose it: but whosoever will lose his life for my sake, the same shall save it."
+  }
+  ,
+  {
+    "day":"13",
+    "month":"4",
+    "year":"2016",
+    "language":"EN",
+    "version":"KJV",
+    "book":"Romans 3:23-24",
+    "verse":"<small><sup>23</sup></small> For all have sinned, and come short of the glory of God;\n <small><sup>24</sup></small> Being justified freely by his grace through the redemption that is in Christ Jesus:"
+  }
+  ,
+  {
+    "day":"14",
+    "month":"4",
+    "year":"2016",
+    "language":"EN",
+    "version":"KJV",
+    "book":"1 Corinthians 15:1",
+    "verse":"<small><sup>1</sup></small> Moreover, brethren, I declare unto you the gospel which I preached unto you, which also ye have received, and wherein ye stand;"
+  }
+  ,
+  {
+    "day":"15",
+    "month":"4",
+    "year":"2016",
+    "language":"EN",
+    "version":"KJV",
+    "book":"Romans 13:6-7",
+    "verse":"<small><sup>6</sup></small> For for this cause pay ye tribute also: for they are God's ministers, attending continually upon this very thing.\n<small><sup>7</sup></small> Render therefore to all their dues: tribute to whom tribute is due; custom to whom custom; fear to whom fear; honour to whom honour."
+  }
+  ,
+  {
+    "day":"16",
+    "month":"4",
+    "year":"2016",
+    "language":"EN",
+    "version":"KJV",
+    "book":"Romans 13:8",
+    "verse":"<small><sup>8</sup></small> Owe no man any thing, but to love one another: for he that loveth another hath fulfilled the law."
+  }
+  ,
+  {
+    "day":"17",
+    "month":"4",
+    "year":"2016",
+    "language":"EN",
+    "version":"KJV",
+    "book":"1 Corinthians 1:18",
+    "verse":"<small><sup>18</sup></small> For the preaching of the cross is to them that perish foolishness; but unto us which are saved it is the power of God."
+  }
+  ,
+  {
+    "day":"18",
+    "month":"4",
+    "year":"2016",
+    "language":"EN",
+    "version":"KJV",
+    "book":"Romans 10:9-10",
+    "verse":"<small><sup>9</sup></small> That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved.\n <small><sup>10</sup></small> For with the heart man believeth unto righteousness; and with the mouth confession is made unto salvation."
+  }
+  ,
+  {
+    "day":"19",
+    "month":"4",
+    "year":"2016",
+    "language":"EN",
+    "version":"KJV",
+    "book":"1 Corinthians 15:20-22",
+    "verse":"<small><sup>20</sup></small> But now is Christ risen from the dead, and become the firstfruits of them that slept.\n <small><sup>21</sup></small> For since by man came death, by man came also the resurrection of the dead. \n<small><sup>22</sup></small> For as in Adam all die, even so in Christ shall all be made alive."
+  }
+  ,
+  {
+    "day":"20",
+    "month":"4",
+    "year":"2016",
+    "language":"EN",
+    "version":"KJV",
+    "book":"1 Corinthians 15:55-57",
+    "verse":"<small><sup>55</sup></small> O death, where is thy sting? O grave, where is thy victory? \n <small><sup>56</sup></small> The sting of death is sin; and the strength of sin is the law. \n<small><sup>57</sup></small> But thanks be to God, which giveth us the victory through our Lord Jesus Christ. "
+  }
+  ,
+  {
+    "day":"21",
+    "month":"4",
+    "year":"2016",
+    "language":"EN",
+    "version":"KJV",
+    "book":"John 10:28-30",
+    "verse":"<small><sup>28</sup></small> And I give unto them eternal life; and they shall never perish, neither shall any man pluck them out of my hand. \n<small><sup>29</sup></small> My Father, which gave them me, is greater than all; and no man is able to pluck them out of my Father's hand. \n<small><sup>30</sup></small> I and my Father are one."
+  }
+  ,
+  {
+    "day":"22",
+    "month":"4",
+    "year":"2016",
+    "language":"EN",
+    "version":"KJV",
+    "book":"Romans 1:20",
+    "verse":"<small><sup>20</sup></small> For the invisible things of him from the creation of the world are clearly seen, being understood by the things that are made, even his eternal power and Godhead; so that they are without excuse:"
+  }
+  ,
+  {
+    "day":"23",
+    "month":"4",
+    "year":"2016",
+    "language":"EN",
+    "version":"KJV",
+    "book":"Romans 14:11",
+    "verse":"<small><sup>11</sup></small> For it is written, As I live, saith the Lord, every knee shall bow to me, and every tongue shall confess to God."
+  }
+  ,
+  {
+    "day":"24",
+    "month":"4",
+    "year":"2016",
+    "language":"EN",
+    "version":"KJV",
+    "book":"1 Peter 1:18-19",
+    "verse":"<small><sup>18</sup></small> Forasmuch as ye know that ye were not redeemed with corruptible things, as silver and gold, from your vain conversation received by tradition from your fathers; \n<small><sup>19</sup></small> But with the precious blood of Christ, as of a lamb without blemish and without spot:"
+  }
+  ,
+  {
+    "day":"25",
+    "month":"4",
+    "year":"2016",
+    "language":"EN",
+    "version":"KJV",
+    "book":"Colossians 1:27-28",
+    "verse":"<small><sup>27</sup></small> To whom God would make known what is the riches of the glory of this mystery among the Gentiles; which is Christ in you, the hope of glory: \n<small><sup>28</sup></small> Whom we preach, warning every man, and teaching every man in all wisdom; that we may present every man perfect in Christ Jesus:"
+  }
+  ,
+  {
+    "day":"26",
+    "month":"4",
+    "year":"2016",
+    "language":"EN",
+    "version":"KJV",
+    "book":"Hebrews 7:25",
+    "verse":"<small><sup>25</sup></small> Wherefore he is able also to save them to the uttermost that come unto God by him, seeing he ever liveth to make intercession for them."
+  }
+  ,
+  {
+    "day":"27",
+    "month":"4",
+    "year":"2016",
+    "language":"EN",
+    "version":"KJV",
+    "book":"Luke 19:10",
+    "verse":"<small><sup>10</sup></small> For the Son of man is come to seek and to save that which was lost."
+  }
+  ,
+  {
+    "day":"28",
+    "month":"4",
+    "year":"2016",
+    "language":"EN",
+    "version":"KJV",
+    "book":"Philippians 2:5-8",
+    "verse":"<small><sup>5</sup></small> Let this mind be in you, which was also in Christ Jesus: \n<small><sup>6</sup></small> Who, being in the form of God, thought it not robbery to be equal with God:\n<small><sup>7</sup></small> But made himself of no reputation, and took upon him the form of a servant, and was made in the likeness of men:\n<small><sup>8</sup></small> And being found in fashion as a man, he humbled himself, and became obedient unto death, even the death of the cross."
+  }
+  ,
+  {
+    "day":"29",
+    "month":"4",
+    "year":"2016",
+    "language":"EN",
+    "version":"KJV",
+    "book":"Job 19:25",
+    "verse":"<small><sup>25</sup></small> For I know that my redeemer liveth, and that he shall stand at the latter day upon the earth:"
+  }
+  ,
+  {
+    "day":"30",
+    "month":"4",
+    "year":"2016",
+    "language":"EN",
+    "version":"KJV",
+    "book":"Ephesians 4:15",
+    "verse":"<small><sup>15</sup></small> But speaking the truth in love, may grow up into him in all things, which is the head, even Christ:"
   }
 ]
