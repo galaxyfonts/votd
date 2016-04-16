@@ -138,5 +138,12 @@
     "book": "Psalm 120:1",
     "verse": " I call on the LORD in my distress, and he answers me.",
     "version": "NIV"
+  },
+  {
+    "cat": "3",
+    "language": "EN",
+    "book": "Ecclesiastes 4:9-10",
+    "verse": "Two are better than one, because they have a good return for their labor. If either of them falls down, one can help the other up. But pity anyone who falls and has no one to help them up.",
+    "version": "NIV"
   }
 ]
