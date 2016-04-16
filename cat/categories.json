@@ -145,8 +145,7 @@
     "book": "Ecclesiastes 4:9-10",
     "verse": "Two are better than one, because they have a good return for their labor. If either of them falls down, one can help the other up. But pity anyone who falls and has no one to help them up.",
     "version": "NIV"
-  }
-  ,
+  },
   {
     "cat": "3",
     "language": "EN",
@@ -159,6 +158,13 @@
     "language": "EN",
     "book": "1 John 4:7",
     "verse": " Dear friends, let us love one another, for love comes from God. Everyone who loves has been born of God and knows God.",
+    "version": "NIV"
+  },
+  {
+    "cat": "3",
+    "language": "EN",
+    "book": "Proverbs 22:24-25",
+    "verse": "Do not make friends with a hot-tempered person, do not associate with one easily angered, or you may learn their ways and get yourself ensnared.",
     "version": "NIV"
   }
 ]
