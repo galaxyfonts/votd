@@ -1,4 +1,4 @@
-[ 
+[
   {
     "cat": "1",
     "language": "EN",
@@ -101,7 +101,7 @@
     "cat": "1",
     "language": "EN",
     "book": "Psalm 118:14-16",
-    "verse": "14 The Lord is my strength and my defense; he has become my salvation.\n15 Shouts of joy and victory resound in the tents of the righteous: \"The Lord's right hand has done mighty things! \n16 The Lord's right hand is lifted high; the Lord's right hand has done mighty things!",
+    "verse": "14 The Lord is my strength and my defense; he has become my salvation.\n15 Shouts of joy and victory resound in the tents of the righteous: \"The LORD's right hand has done mighty things! \n16 The LORD's right hand is lifted high; the LORD's right hand has done mighty things!",
     "version": "NIV"
   },
   {
@@ -171,7 +171,42 @@
     "cat": "8",
     "language": "EN",
     "book": "Joel 2:25",
-    "verse": "I will repay you for the years the locusts have eaten - the great locust and the young locust, the other locusts and the locust swarm - my great army that I sent among you.",
+    "verse": "I will repay you for the years the locusts have eaten— the great locust and the young locust, the other locusts and the locust swarm — my great army that I sent among you.",
+    "version": "NIV"
+  },
+  {
+    "cat": "8",
+    "language": "EN",
+    "book": "Psalm 34:18",
+    "verse": "The LORD is close to the brokenhearted and saves those who are crushed in spirit.",
+    "version": "NIV"
+  },
+  {
+    "cat": "8",
+    "language": "EN",
+    "book": "Psalm 73:26",
+    "verse": "My flesh and my heart may fail, but God is the strength of my heart and my portion forever.",
+    "version": "NIV"
+  },
+  {
+    "cat": "8",
+    "language": "EN",
+    "book": "Proverbs 3:5-6",
+    "verse": "Trust in the LORD with all your heart and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight.",
+    "version": "NIV"
+  },
+  {
+    "cat": "8",
+    "language": "EN",
+    "book": "Matthew 11:28-29",
+    "verse": "Come to me, all you who are weary and burdened, and I will give you rest. Take my yoke upon you and learn from me, for I am gentle and humble in heart, and you will find rest for your souls.",
+    "version": "NIV"
+  },
+  {
+    "cat": "8",
+    "language": "EN",
+    "book": "Psalm 18:2",
+    "verse": "The LORD is my rock, my fortress and my deliverer; my God is my rock, in whom I take refuge, my shield and the horn of my salvation, my stronghold.",
     "version": "NIV"
   }
 ]
