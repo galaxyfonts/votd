@@ -222,5 +222,33 @@
     "book": "2 Thessalonians 3:16",
     "verse": "Now may the Lord of peace himself give you peace at all times and in every way. The Lord be with all of you.",
     "version": "NIV"
-  }
+  },
+  {
+    "cat": "9",
+    "language": "EN",
+    "book": "2 Corinthians 13:11",
+    "verse": "Finally, brothers and sisters, rejoice! Strive for full restoration, encourage one another, be of one mind, live in peace. And the God of love and peace will be with you.",
+    "version": "NIV"
+  },
+  {
+    "cat": "9",
+    "language": "EN",
+    "book": "Philippians 1:2",
+    "verse": "Grace and peace to you from God our Father and the Lord Jesus Christ.",
+    "version": "NIV"
+  },
+  {
+    "cat": "9",
+    "language": "EN",
+    "book": "Colossians 3:15",
+    "verse": "Let the peace of Christ rule in your hearts, since as members of one body you were called to peace. And be thankful. Let the message of Christ dwell among you richly as you teach and admonish one another with all wisdom through psalms, hymns, and songs from the Spirit, singing to God with gratitude in your hearts.",
+    "version": "NIV"
+  },
+  {
+    "cat": "9",
+    "language": "EN",
+    "book": "Philippians 4:6-7",
+    "verse": "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God. And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus.",
+    "version": "NIV"
+  },
 ]
