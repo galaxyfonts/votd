@@ -38,5 +38,10 @@
     "catid": "8",
     "name": "Healing",
     "status": "1"
+  },
+  {
+    "catid": "9",
+    "name": "Peace",
+    "status": "1"
   }
 ]
