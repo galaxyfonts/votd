@@ -43,5 +43,10 @@
     "catid": "9",
     "name": "Peace",
     "status": "1"
+  },
+  {
+    "catid": "10",
+    "name": "Marriage",
+    "status": "1"
   }
 ]
