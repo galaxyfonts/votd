@@ -48,5 +48,10 @@
     "catid": "10",
     "name": "Marriage",
     "status": "1"
+  },
+  {
+    "catid": "11",
+    "name": "Get well soon",
+    "status": "1"
   }
 ]
