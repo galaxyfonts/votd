@@ -219,6 +219,13 @@
   {
     "cat": "9",
     "language": "EN",
+    "book": "Matthew 5:9",
+    "verse": "Blessed are the peacemakers, for they will be called children of God.",
+    "version": "NIV"
+  },
+  {
+    "cat": "9",
+    "language": "EN",
     "book": "2 Thessalonians 3:16",
     "verse": "Now may the Lord of peace himself give you peace at all times and in every way. The Lord be with all of you.",
     "version": "NIV"
