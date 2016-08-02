@@ -88,5 +88,14 @@
     "version": "KJV",
     "url": "https://raw.githubusercontent.com/galaxyfonts/votd/master/kjv/kjv_062016.json",
     "status": "1"
+  },
+  {
+    "linkid": "11",
+    "type": "votd",
+    "month": "8",
+    "year": "2016",
+    "version": "NIV",
+    "url": "https://raw.githubusercontent.com/galaxyfonts/votd/master/niv/niv_082017.json",
+    "status": "1"
   }
 ]
