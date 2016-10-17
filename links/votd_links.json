@@ -116,4 +116,14 @@
     "url": "https://raw.githubusercontent.com/galaxyfonts/votd/master/niv/niv_092016.json",
     "status": "1"
   }
+  ,
+  {
+    "linkid": "14",
+    "type": "votd",
+    "month": "10",
+    "year": "2016",
+    "version": "NIV",
+    "url": "https://raw.githubusercontent.com/galaxyfonts/votd/master/niv/niv_102016.json",
+    "status": "1"
+  }
 ]
